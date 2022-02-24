@@ -52,5 +52,5 @@ _For examples (google colab), please refer to_
 * [Inference Examples](https://github.com/slohani-ai/machine-learning-for-physical-sciences/blob/main/mlphys/deepqis/Inference_examples.ipynb).
 
 ## Hands-on coding examples for the results
-* Reducing spurious correlation - [Fig 2 (a)] (https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20a.ipynb). [Fig 2 (b)] (https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20b.ipynb)
+* Reducing spurious correlation - [Fig 2 (a)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20a.ipynb). [Fig 2 (b)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20b.ipynb)
 
