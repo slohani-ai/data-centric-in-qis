@@ -43,7 +43,9 @@ import mlphys.deepqis.network.Inference as inference
 import mlphys.deepqis.utils.Fidelity_Measure as fm
 ...
 ```
-
+### Sub-module
+* <a href="https://github.com/slohani-ai/machine-learning-for-physical-sciences/tree/main/mlphys/deepqis">deepQis</a>
+* 
 #### Tutorials
 _For examples (google colab), please refer to_ 
 * [Generating Biased Distributions](https://github.com/slohani-ai/machine-learning-for-physical-sciences/blob/main/mlphys/deepqis/Biased_distributions_random_Q_states.ipynb). 
