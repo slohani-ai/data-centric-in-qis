@@ -61,4 +61,6 @@ fraction of separable states into the training set - [Fig 2 (c, d)](https://gith
     * Data-centric approach (Fidelity versus trainable parameters) - [Fig 3](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/Fidelity_vs_trainable_params/Fig%203.ipynb)  
     * The concurrence and purity of random quantum states from the Hilbert–Schmidt–Haar (HS–Haar), Zyczkowski (Z), ˙
 engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/histograms/Fig%203%20insets.ipynb)
+* **Engineered states on concurrence-purity plane:**
+    * The engineered and IBM Q sets - [Fig 4](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/CP_werner_with_MA/Fig%204.ipynb)
 
