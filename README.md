@@ -18,11 +18,11 @@ Preprint:
 
 1.  Lohani, S., Lukens, J.M., Glasser, R.T., Searles, T.A. and Kirby, B.T., 2022. Data-Centric Machine Learning in Quantum Information Science. arXiv preprint arXiv:2201.09134.
 
-## Packages
+### Built With
 
-```tensorflow >=2.4
-qiskit
-mlphys```
+* [Tensorflow >2.4](https://www.tensorflow.org/)
+* [Qiskit](https://qiskit.org)
+* [MLPHYS](https://pypi.org/project/mlphys/)
 
 
 <!-- GETTING STARTED -->
