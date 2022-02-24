@@ -84,3 +84,19 @@ engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-
         * Fidelity versus K parameter - [Fig 6 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20K.ipynb)
         * Zoomed in at the crossing point - [Fig 6 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20zoomed%20in.ipynb)
 
+* **Engineered states: **
+    * Unfiltered - [Fig 7 (a) left](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
+    * Engineered - [Fig 7 (a) right](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
+    * Reconstruction fidelities versus the value of K - [Fig 7 (b)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/fid_vs_K_con_vs_K_pur_K/Fig%207%20b.ipynb)
+
+* **Optimizing learning rate: **
+    * Fidelity of reconstructed density matrices versus learning rate - [Fig 8](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/learning_rate_test/plots/Fig%208%20fidelity%20vs%20learning%20rate.ipynb)
+    * The full purity distributions of the reconstructed states - [Fig 8 inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/learning_rate_test/plots/Fig%208%20Density%20vs%20purity.ipynb) 
+    
+* **Reconstruction fidelity versus trainable parameters for various MA-distributed training sets: **
+    * The pairs of concentration parameter and K-value are chosen as (α, K) ∈ {(0.01, 4),(0.1, 4),(0.3, 4),(0.8, 4),(0.3394, 6)} for
+training sets - [Fig 9](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/Fidelity_vs_trainable_params/Fig%209.ipynb)
+
+* **Reconstruction fidelity of NISQ-sampled test set versus the mean purity of various MA-distributed training states when K = 4.**
+    *  
+
