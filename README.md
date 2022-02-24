@@ -52,9 +52,10 @@ _For examples (google colab), please refer to_
 * [Inference Examples](https://github.com/slohani-ai/machine-learning-for-physical-sciences/blob/main/mlphys/deepqis/Inference_examples.ipynb).
 
 ## Hands-on coding examples for the results
-* Reducing spurious correlations:
-  * Accuracy of entanglement-separability classification - [Fig 2 (a)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20a.ipynb)
-  * network reconstruction fidelity versus the percentage of separable states added to a training set containing entangled states - [Fig 2 (b)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20b.ipynb)
-  * Reconstruction fidelity for test states from the MA distribution for a MEMS-only trained network and after adding a small
+* **Reducing spurious correlations:**
+    * Accuracy of entanglement-separability classification - [Fig 2 (a)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20a.ipynb)
+    * network reconstruction fidelity versus the percentage of separable states added to a training set containing entangled states - [Fig 2 (b)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20b.ipynb)
+    * Reconstruction fidelity for test states from the MA distribution for a MEMS-only trained network and after adding a small
 fraction of separable states into the training set - [Fig 2 (c, d)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/CP_werner_with_MA/Fig%202%20c%20and%20d.ipynb)
+* **Reconstruction fidelity versus number of trainable parameters for various training set distributions:**
 
