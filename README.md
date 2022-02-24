@@ -58,4 +58,7 @@ _For examples (google colab), please refer to_
     * Reconstruction fidelity for test states from the MA distribution for a MEMS-only trained network and after adding a small
 fraction of separable states into the training set - [Fig 2 (c, d)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/CP_werner_with_MA/Fig%202%20c%20and%20d.ipynb)
 * **Reconstruction fidelity versus number of trainable parameters for various training set distributions:**
+    * Data-centric approach (Fidelity versus trainable parameters) - [Fig 3](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/Fidelity_vs_trainable_params/Fig%203.ipynb)  
+    * The concurrence and purity of random quantum states from the Hilbert–Schmidt–Haar (HS–Haar), Zyczkowski (Z), ˙
+engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/histograms/Fig%203%20insets.ipynb)
 
