@@ -46,11 +46,14 @@ import mlphys.deepqis.utils.Fidelity_Measure as fm
 ### Sub-module
 * <a href="https://github.com/slohani-ai/machine-learning-for-physical-sciences/tree/main/mlphys/deepqis">deepQis</a>
 
-#### Tutorials
+### Tutorials
 _For examples (google colab), please refer to_ 
 * [Generating Biased Distributions](https://github.com/slohani-ai/machine-learning-for-physical-sciences/blob/main/mlphys/deepqis/Biased_distributions_random_Q_states.ipynb). 
 * [Inference Examples](https://github.com/slohani-ai/machine-learning-for-physical-sciences/blob/main/mlphys/deepqis/Inference_examples.ipynb).
 
 ## Hands-on coding examples for the results
-* Reducing spurious correlation - [Fig 2 (a)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20a.ipynb). [Fig 2 (b)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20b.ipynb)
+* Reducing spurious correlation
+  * Accuracy of entanglement-separability classification - [Fig 2 (a)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20a.ipynb)
+  * network reconstruction fidelity versus the percentage of separable states added to a training set containing entangled states - [Fig 2 (b)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/MEMS/plots/Fig%202%20b.ipynb)
+  * 
 
