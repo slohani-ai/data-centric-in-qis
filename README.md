@@ -65,4 +65,10 @@ engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-
     * The engineered and IBM Q sets - [Fig 4](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/CP_werner_with_MA/Fig%204.ipynb)
 * **Data-centric approach in the low-shot regime:**
     * Reconstructing the NISQ-sampled distribution with simulated measurements performed with shots ranging from 128 to 8192 - [Fig 5](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/shots_vary/plots/Fig%205.ipynb)  
+* **Heterogeneous state complexity:**
+    * Two-qubits
+          * Reconstruction fidelities versus test state purity - [Fig 6 (a) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20bottom.ipynb) 
+          * Test MA distribution - [Fig 6 (a) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20Density%20plot.ipynb) 
+          * Fidelity versus K parameter - [Fig 6 (a) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20fid%20vs%20K.ipynb)
+          * Zoomed in at the crossing point - [Fig 6 (a) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20zoomed%20in.ipynb)
 
