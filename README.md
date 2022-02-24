@@ -71,4 +71,16 @@ engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-
         * Test MA distribution - [Fig 6 (a) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20Density%20plot.ipynb) 
         * Fidelity versus K parameter - [Fig 6 (a) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20fid%20vs%20K.ipynb)
         * Zoomed in at the crossing point - [Fig 6 (a) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20zoomed%20in.ipynb)
+        
+     * Three-qubits
+        * Reconstruction fidelities versus test state purity - [Fig 6 (b) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20fidelity%20vs%20purity.ipynb) 
+        * Test MA distribution - [Fig 6 (b) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20Density%20plot.ipynb) 
+        * Fidelity versus K parameter - [Fig 6 (b) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20fidelity%20vs%20K.ipynb)
+        * Zoomed in at the crossing point - [Fig 6 (b) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20zoomed%20in.ipynb)
+      
+     * Four-qubits
+        * Reconstruction fidelities versus test state purity - [Fig 6 (c) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20purity.ipynb) 
+        * Test MA distribution - [Fig 6 (c) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20Density%20plot.ipynb) 
+        * Fidelity versus K parameter - [Fig 6 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20K.ipynb)
+        * Zoomed in at the crossing point - [Fig 6 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20zoomed%20in.ipynb)
 
