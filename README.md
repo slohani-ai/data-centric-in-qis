@@ -6,7 +6,7 @@
     <img src="logo-image/methods.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Data-centric ML in QIS</h3>
+  <h3 align="center">Data-centric ML in Quantum Information Science</h3>
 
 Author: [Sanjaya Lohani](https://sanjayalohani.com)
 
