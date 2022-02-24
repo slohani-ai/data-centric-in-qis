@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/slohani-ai/LG-OAM-simulations-with-Tensors/">
-    <img src="logo-image/atom.jpg" alt="Logo" width="120" height="120">
+    <img src="logo-image/methods.png" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Data-centric ML in QIS</h3>
