@@ -19,7 +19,7 @@ Preprint:
 Lohani, S., Lukens, J.M., Glasser, R.T., Searles, T.A. and Kirby, B.T., 2022. Data-Centric Machine Learning in Quantum Information Science. arXiv preprint arXiv:2201.09134.
 
 ## Built With
-* [mlmphys](https://pypi.org/project/mlphys/)
+* [mlphys](https://pypi.org/project/mlphys/)
 * [tensorflow >=2.4](https://www.tensorflow.org/)
 * [qiskit](https://qiskit.org)
 
@@ -48,4 +48,5 @@ import mlphys.deepqis.utils.Fidelity_Measure as fm
 _For examples (google colab), please refer to_ 
 * [Generating Biased Distributions](https://github.com/slohani-ai/machine-learning-for-physical-sciences/blob/main/mlphys/deepqis/Biased_distributions_random_Q_states.ipynb). 
 * [Inference Examples](https://github.com/slohani-ai/machine-learning-for-physical-sciences/blob/main/mlphys/deepqis/Inference_examples.ipynb).
+
 
