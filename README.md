@@ -63,4 +63,6 @@ fraction of separable states into the training set - [Fig 2 (c, d)](https://gith
 engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/histograms/Fig%203%20insets.ipynb)
 * **Engineered states on concurrence-purity plane:**
     * The engineered and IBM Q sets - [Fig 4](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/CP_werner_with_MA/Fig%204.ipynb)
+* **Data-centric approach in the low-shot regime:**
+    * Reconstructing the NISQ-sampled distribution with simulated measurements performed with shots ranging from 128 to 8192 - [Fig 5](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/shots_vary/plots/Fig%205.ipynb)  
 
