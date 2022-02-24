@@ -83,7 +83,6 @@ engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-
         * Test MA distribution - [Fig 6 (c) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20Density%20plot.ipynb) 
         * Fidelity versus K parameter - [Fig 6 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20K.ipynb)
         * Zoomed in at the crossing point - [Fig 6 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20zoomed%20in.ipynb)
-
 * **Engineered states: **
     * Unfiltered - [Fig 7 (a) left](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
     * Engineered - [Fig 7 (a) right](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
@@ -98,5 +97,5 @@ engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-
 training sets - [Fig 9](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/Fidelity_vs_trainable_params/Fig%209.ipynb)
 
 * **Reconstruction fidelity of NISQ-sampled test set versus the mean purity of various MA-distributed training states when K = 4.**
-    *  
+    * The mean purity of the training set matches the minimum and mean purity of the NISQ sampled states when D = K = 4 - [Fig 10](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_fid_vs_purity_K_6/plots/Fig%2010.ipynb)
 
