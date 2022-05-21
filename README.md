@@ -58,31 +58,31 @@ _For examples (google colab), please refer to_
     * Reconstruction fidelity for test states from the MA distribution for a MEMS-only trained network and after adding a small
 fraction of separable states into the training set - [Fig 2 (c, d)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/CP_werner_with_MA/Fig%202%20c%20and%20d.ipynb)
 * **Reconstruction fidelity versus number of trainable parameters for various training set distributions:**
-    * Data-centric approach (Fidelity versus trainable parameters) - [Fig 3](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/Fidelity_vs_trainable_params/Fig%203.ipynb)  
+    * Data-centric approach (Fidelity versus trainable parameters) - [Fig 3 (a)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/Fidelity_vs_trainable_params/Fig%203.ipynb)  
     * The concurrence and purity of random quantum states from the Hilbert–Schmidt–Haar (HS–Haar), Zyczkowski (Z), ˙
-engineered, and IBM Q distributions - [Fig 3 insets](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/histograms/Fig%203%20insets.ipynb)
+engineered, and IBM Q distributions - [Fig 3 (a) insets](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/histograms/Fig%203%20insets.ipynb)
 * **Engineered states on concurrence-purity plane:**
-    * The engineered and IBM Q sets - [Fig 4](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/CP_werner_with_MA/Fig%204.ipynb)
+    * The engineered and IBM Q sets - [Fig 3 (b)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Toy-model/CP_werner_with_MA/Fig%204.ipynb)
 * **Data-centric approach in the low-shot regime:**
-    * Reconstructing the NISQ-sampled distribution with simulated measurements performed with shots ranging from 128 to 8192 - [Fig 5](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/shots_vary/plots/Fig%205.ipynb)  
+    * Reconstructing the NISQ-sampled distribution with simulated measurements performed with shots ranging from 128 to 8192 - [Fig 4](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/shots_vary/plots/Fig%205.ipynb)  
 * **Heterogeneous state complexity:**
     * Two-qubits
-        * Reconstruction fidelities versus test state purity - [Fig 6 (a) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20bottom.ipynb) 
-        * Test MA distribution - [Fig 6 (a) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20Density%20plot.ipynb) 
-        * Fidelity versus K parameter - [Fig 6 (a) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20fid%20vs%20K.ipynb)
-        * Zoomed in at the crossing point - [Fig 6 (a) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20zoomed%20in.ipynb)
+        * Reconstruction fidelities versus test state purity - [Fig 5 (a) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20bottom.ipynb) 
+        * Test MA distribution - [Fig 5 (a) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20Density%20plot.ipynb) 
+        * Fidelity versus K parameter - [Fig 5 (a) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20(a)%20fid%20vs%20K.ipynb)
+        * Zoomed in at the crossing point - [Fig 5 (a) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/two%20qubits/plots/Fig%206%20zoomed%20in.ipynb)
         
      * Three-qubits
-        * Reconstruction fidelities versus test state purity - [Fig 6 (b) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20fidelity%20vs%20purity.ipynb) 
-        * Test MA distribution - [Fig 6 (b) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20Density%20plot.ipynb) 
-        * Fidelity versus K parameter - [Fig 6 (b) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20fidelity%20vs%20K.ipynb)
-        * Zoomed in at the crossing point - [Fig 6 (b) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20zoomed%20in.ipynb)
+        * Reconstruction fidelities versus test state purity - [Fig 5 (b) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20fidelity%20vs%20purity.ipynb) 
+        * Test MA distribution - [Fig 5 (b) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20Density%20plot.ipynb) 
+        * Fidelity versus K parameter - [Fig 5 (b) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20fidelity%20vs%20K.ipynb)
+        * Zoomed in at the crossing point - [Fig 5 (b) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/three%20qubits/plots/Fig%206%20b%20zoomed%20in.ipynb)
       
      * Four-qubits
-        * Reconstruction fidelities versus test state purity - [Fig 6 (c) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20purity.ipynb) 
-        * Test MA distribution - [Fig 6 (c) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20Density%20plot.ipynb) 
-        * Fidelity versus K parameter - [Fig 6 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20K.ipynb)
-        * Zoomed in at the crossing point - [Fig 6 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20zoomed%20in.ipynb)
+        * Reconstruction fidelities versus test state purity - [Fig 5 (c) bottom](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20purity.ipynb) 
+        * Test MA distribution - [Fig 5 (c) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20Density%20plot.ipynb) 
+        * Fidelity versus K parameter - [Fig 5 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20K.ipynb)
+        * Zoomed in at the crossing point - [Fig 5 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20zoomed%20in.ipynb)
 * **Engineered states:**
     * Unfiltered - [Fig 7 (a) left](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
     * Engineered - [Fig 7 (a) right](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
