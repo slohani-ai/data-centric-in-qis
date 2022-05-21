@@ -83,19 +83,21 @@ engineered, and IBM Q distributions - [Fig 3 (a) insets](https://github.com/sloh
         * Test MA distribution - [Fig 5 (c) top](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20Density%20plot.ipynb) 
         * Fidelity versus K parameter - [Fig 5 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20fideliy%20vs%20K.ipynb)
         * Zoomed in at the crossing point - [Fig 5 (c) inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_train_MA_test/four%20qubits/plots/Fig%206%20c%20zoomed%20in.ipynb)
+* **Optimizing learning rate:**
+    * Fidelity of reconstructed density matrices versus learning rate - [Extended Data Fig 1](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/learning_rate_test/plots/Fig%208%20fidelity%20vs%20learning%20rate.ipynb)
+    * The full purity distributions of the reconstructed states - [Extended Data Fig 1 inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/learning_rate_test/plots/Fig%208%20Density%20vs%20purity.ipynb) 
+
 * **Engineered states:**
-    * Unfiltered - [Fig 7 (a) left](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
-    * Engineered - [Fig 7 (a) right](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
+    * Unfiltered - [Extended Data Fig. 2 (a) left](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
+    * Engineered - [Extended Data Fig. 2 (a) right](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/Fig%207%20a.ipynb)
     * Reconstruction fidelities versus the value of K - [Fig 7 (b)](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/brute_force_distro_gen/plots/fid_vs_K_con_vs_K_pur_K/Fig%207%20b.ipynb)
 
-* **Optimizing learning rate:**
-    * Fidelity of reconstructed density matrices versus learning rate - [Fig 8](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/learning_rate_test/plots/Fig%208%20fidelity%20vs%20learning%20rate.ipynb)
-    * The full purity distributions of the reconstructed states - [Fig 8 inset](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/learning_rate_test/plots/Fig%208%20Density%20vs%20purity.ipynb) 
+* **Reconstruction fidelity of NISQ-sampled test set versus the mean purity of various MA-distributed training states when K = 4.**
+    * The mean purity of the training set matches the minimum and mean purity of the NISQ sampled states when D = K = 4 - [Extended Data Fig. 3](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_fid_vs_purity_K_6/plots/Fig%2010.ipynb)
     
 * **Reconstruction fidelity versus trainable parameters for various MA-distributed training sets:**
     * The pairs of concentration parameter and K-value are chosen as (α, K) ∈ {(0.01, 4),(0.1, 4),(0.3, 4),(0.8, 4),(0.3394, 6)} for
-training sets - [Fig 9](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/Fidelity_vs_trainable_params/Fig%209.ipynb)
+training sets - [Extended Data Fig. 4](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/plots/Fidelity_vs_trainable_params/Fig%209.ipynb)
 
-* **Reconstruction fidelity of NISQ-sampled test set versus the mean purity of various MA-distributed training states when K = 4.**
-    * The mean purity of the training set matches the minimum and mean purity of the NISQ sampled states when D = K = 4 - [Fig 10](https://github.com/slohani-ai/data-centric-in-qis/blob/master/Distributions/Simulation/MA_fid_vs_purity_K_6/plots/Fig%2010.ipynb)
+
 
