@@ -34,8 +34,8 @@ Lohani, S., Lukens, J.M., Glasser, R.T., Searles, T.A. and Kirby, B.T., 2022. Da
 ## Usage
 ### Simulating various distributions and measurements (including inferences)
 ```sh
-import mlphys.deepqis.Simulator.Distributions as dist
-import mlphys.deepqis.Simulator.Measurements as meas
+import mlphys.deepqis.simulator.distributions as dist
+import mlphys.deepqis.simulator.measurements as meas
 import mlphys.deepqis.utils.Alpha_Measure as find_alpha
 import mlphys.deepqis.utils.Concurrence_Measure as find_con
 import mlphys.deepqis.utils.Purity_Measure as find_pm
